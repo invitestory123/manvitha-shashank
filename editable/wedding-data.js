@@ -21,8 +21,14 @@ window.WEDDING_DATA = {
   dressCode: "Traditional Indian & Festive Elegance",
   hero: {
     kicker: "Together with our families",
-    eyebrow: "Save the Date",
+    scrollLabel: "Scroll Down",
     blessing: "Two souls, one beautiful journey",
+  },
+  bgm: {
+    src: "./editable/assets/bgm.mp3",
+    youtubeUrl: "https://youtu.be/xhnD6t3uI2E",
+    title: "Kaanunna Kalyanam (Veena)",
+    volume: 0.65,
   },
   story: {
     title: "The Two of Them",
@@ -37,6 +43,11 @@ window.WEDDING_DATA = {
       role: "The Groom",
       text: "Adventurous by nature, happiest with a trail under his feet and a new place on the horizon. He finds joy in exploring the world, with a ready smile and a curiosity that keeps him wandering.",
     },
+  },
+  chaptersSection: {
+    eyebrow: "Chapter Three",
+    title: "Wedding Celebrations",
+    note: "Celebrating together",
   },
   chapters: [
     {
@@ -83,7 +94,6 @@ window.WEDDING_DATA = {
     gardenCourtyard: "./editable/assets/garden-courtyard.jpg",
     sceneDancing: "./editable/assets/scene-dancing.jpg",
     sceneWalking: "./editable/assets/scene-walking.jpg",
-    sceneBalcony: "./editable/assets/scene-balcony.jpg",
     sceneHands: "./editable/assets/scene-hands.jpg",
     coupleLanterns: "./editable/assets/couple-lanterns.png",
     sunsetSky: "./editable/assets/sunset-sky.jpg",
